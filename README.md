@@ -8,7 +8,7 @@ Deeply passionate about Swift, consistently exploring new opportunities to broad
 <details open><summary><b>Robokiller</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885"><img src="./resources/robokiller.webp" style="width:100px"/></a>
+    <a href="https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885"><img src="./resources/robokiller.png" style="width:100px"/></a>
     <p>
       <b>Robokiller</b> is an app designed to block spam calls and telemarketers. It uses <b>machine learning</b> to <b>identify</b> and <b>filter out</b> unwanted calls in real-time. 
       The app also offers features like <b>personalized block and allow lists</b>, <b>SMS spam filtering</b>, and the ability to play <b>pre-recorded answer bots</b> to waste spammers' time. 
@@ -20,7 +20,7 @@ Deeply passionate about Swift, consistently exploring new opportunities to broad
 <details><summary><b>Textkiller</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/textkiller-spam-text-blocker/id1514005355"><img src="./resources/textkiller.webp" style="width:100px"/></a>
+    <a href="https://apps.apple.com/us/app/textkiller-spam-text-blocker/id1514005355"><img src="./resources/textkiller.png" style="width:100px"/></a>
     <p>
       <b>Textkiller</b> is an app designed to block spam texts. It uses <b>machine learning</b> to <b>analyse</b> and <b>categorise</b> text messages in real-time. 
       The app also offers features like <b>personalized block and allow lists</b>, allowing users to add <b>phone numbers</b>, <b>keywords</b>, and <b>sender names</b> to the filter list. 
@@ -32,7 +32,7 @@ Deeply passionate about Swift, consistently exploring new opportunities to broad
 <details><summary><b>Glooko</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/glooko-track-diabetes-data/id471942748"><img src="./resources/glooko.webp" style="width:100px"/></a>
+    <a href="https://apps.apple.com/us/app/glooko-track-diabetes-data/id471942748"><img src="./resources/glooko.png" style="width:100px"/></a>
     <p>
       <b>Glooko</b> is an iOS app designed to help people <b>manage their diabetes</b> more effectively. It allows users to <b>track their blood glucose levels</b>, <b>medication intake</b>, <b>food consumption</b>, and <b>physical activity</b>. 
       The app also offers features like <b>insulin dose tracking</b>, <b>data analysis</b>, and the ability to <b>share information with healthcare providers</b>. 
