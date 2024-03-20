@@ -41,7 +41,7 @@ Deeply passionate about Swift, consistently exploring new opportunities to broad
   </div>
 </details>
 
-### Tools of trade
+### Tools of the trade
 
 <img src="https://skillicons.dev/icons?i=apple,firebase,git,github,postman,reactivex,swift" />
 
