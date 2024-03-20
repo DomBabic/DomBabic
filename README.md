@@ -1,6 +1,6 @@
 ### Hello, I am Dominik👋
 
-I am an iOS developer with a track record dating back to 2017, Specialized in creating applications with sleek and user-friendly interfaces. 
+I am an iOS developer with a track record dating back to 2017, specialized in creating applications with sleek and user-friendly interfaces. 
 Deeply passionate about Swift, consistently exploring new opportunities to broaden expertise within the iOS platform.
 
 ### Projects I worked on
