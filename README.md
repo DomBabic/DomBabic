@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I am Dominik👋
 
-<!--
-**DomBabic/DomBabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an iOS developer with a track record dating back to 2017, Specialized in creating applications with sleek and user-friendly interfaces. 
+Deeply passionate about Swift, consistently exploring new opportunities to broaden expertise within the iOS platform.
 
-Here are some ideas to get you started:
+### Tools of trade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=apple,firebase,git,github,postman,reactivex,swift" />
+
+![DomBabic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomBabic&theme=default&show_icons=true&hide_border=false&layout=compact)
+
+### Contact
+
+<a href="mailto:domynick93@gmail.com?subject=Hello Dominik!" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/dominikbabi%C4%87/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
