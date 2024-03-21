@@ -3,6 +3,8 @@
 I am an iOS developer with a track record dating back to 2017, specialized in creating applications with sleek and user-friendly interfaces. 
 Deeply passionate about Swift, consistently exploring new opportunities to broaden expertise within the iOS platform.
 
+I am a nerd at heart, if you don't find me looking at the code you will probably find me playing a game, reading a book, or watching classic sci-fi movies.
+
 ### Projects I worked on
 
 <details open><summary><b>Robokiller</b></summary>
