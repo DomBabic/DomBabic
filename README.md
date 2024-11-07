@@ -7,7 +7,19 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 
 ### Projects I worked on
 
-<details open><summary><b>Robokiller</b></summary>
+<details open><summary><b>XM</b></summary>
+  <div>
+    </br>
+    <a href="https://apps.apple.com/zw/app/xm-trading-point/id1072084799"><img src="./resources/xm.png" style="width:100px"/></a>
+    <p>
+      The <b>XM</b> app is a mobile trading platform designed for users to trade financial instruments such as forex, stocks, commodities, and cryptocurrencies on their iPhones or iPads.
+      It offers features like real-time market data, advanced charting tools, one-click trading, and account management, allowing traders to execute trades, monitor their portfolios, and analyze the markets on the go.
+      The app aims to provide a seamless and user-friendly trading experience, catering to both beginner and experienced traders.
+    </p>
+  </div>
+</details>
+
+<details><summary><b>Robokiller</b></summary>
   <div>
     </br>
     <a href="https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885"><img src="./resources/robokiller.png" style="width:100px"/></a>
