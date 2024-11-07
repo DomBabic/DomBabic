@@ -10,7 +10,7 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 <details open><summary><b>XM</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/zw/app/xm-trading-point/id1072084799"><img src="./resources/xm.png" style="width:100px; border-radius: 39px;"/></a>
+    <a href="https://apps.apple.com/zw/app/xm-trading-point/id1072084799"><img src="./resources/xm.png" style="width:100px"/></a>
     <p>
       The <b>XM</b> app is a mobile trading platform designed for users to trade financial instruments such as forex, stocks, commodities, and cryptocurrencies on their iPhones or iPads.
       It offers features like real-time market data, advanced charting tools, one-click trading, and account management, allowing traders to execute trades, monitor their portfolios, and analyze the markets on the go.
@@ -22,7 +22,7 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 <details><summary><b>Robokiller</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885"><img src="./resources/robokiller.png" style="width:100px; border-radius: 39px;"/></a>
+    <a href="https://apps.apple.com/us/app/robokiller-spam-call-blocker/id1022831885"><img src="./resources/robokiller.png" style="width:100px"/></a>
     <p>
       <b>Robokiller</b> is an app designed to block spam calls and telemarketers. It uses <b>machine learning</b> to <b>identify</b> and <b>filter out</b> unwanted calls in real-time. 
       The app also offers features like <b>personalized block and allow lists</b>, <b>SMS spam filtering</b>, and the ability to play <b>pre-recorded answer bots</b> to waste spammers' time. 
@@ -34,7 +34,7 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 <details><summary><b>Textkiller</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/textkiller-spam-text-blocker/id1514005355"><img src="./resources/textkiller.png" style="width:100px; border-radius: 39px;"/></a>
+    <a href="https://apps.apple.com/us/app/textkiller-spam-text-blocker/id1514005355"><img src="./resources/textkiller.png" style="width:100px"/></a>
     <p>
       <b>Textkiller</b> is an app designed to block spam texts. It uses <b>machine learning</b> to <b>analyse</b> and <b>categorise</b> text messages in real-time. 
       The app also offers features like <b>personalized block and allow lists</b>, allowing users to add <b>phone numbers</b>, <b>keywords</b>, and <b>sender names</b> to the filter list. 
@@ -46,7 +46,7 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 <details><summary><b>Glooko</b></summary>
   <div>
     </br>
-    <a href="https://apps.apple.com/us/app/glooko-track-diabetes-data/id471942748"><img src="./resources/glooko.png" style="width:100px; border-radius: 39px;"/></a>
+    <a href="https://apps.apple.com/us/app/glooko-track-diabetes-data/id471942748"><img src="./resources/glooko.png" style="width:100px"/></a>
     <p>
       <b>Glooko</b> is an iOS app designed to help people <b>manage their diabetes</b> more effectively. It allows users to <b>track their blood glucose levels</b>, <b>medication intake</b>, <b>food consumption</b>, and <b>physical activity</b>. 
       The app also offers features like <b>insulin dose tracking</b>, <b>data analysis</b>, and the ability to <b>share information with healthcare providers</b>. 
