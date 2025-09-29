@@ -7,7 +7,18 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 
 ### Projects I worked on
 
-<details open><summary><b>XM</b></summary>
+<details open><summary><b>Pulse</b></summary>
+  <div>
+    </br>
+    <a href="https://apps.apple.com/us/app/pulse-break-your-limits/id6741325896"><img src="./resources/pulse.png" style="width:100px"></a>
+    <p>
+      Pulse helps you understand your body and feel your best. It works with the Pulse fitness tracker to reveal how well you slept, how much energy you have, and what habits help you the most.
+      Whether you're training, working long hours, or just trying to feel more like yourself again, Pulse shows the connection between your rest, energy, and performance.
+    </p>
+  </div>
+</details>
+
+<details><summary><b>XM</b></summary>
   <div>
     </br>
     <a href="https://apps.apple.com/zw/app/xm-trading-point/id1072084799"><img src="./resources/xm.png" style="width:100px"/></a>
