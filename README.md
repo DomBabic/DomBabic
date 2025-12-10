@@ -70,7 +70,7 @@ I am a nerd at heart, if you don't find me looking at the code you will probably
 
 <img src="https://skillicons.dev/icons?i=apple,firebase,git,github,postman,reactivex,swift" />
 
-![DomBabic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomBabic&theme=default&show_icons=true&hide_border=false&layout=compact)
+<!-- ![DomBabic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomBabic&theme=default&show_icons=true&hide_border=false&layout=compact) -->
 
 ### Contact
 
